@@ -1,1 +1,1 @@
-this is the read me file
+Django web app development test project
